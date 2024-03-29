@@ -1,6 +1,10 @@
-a====b
+
+a=100000if(monthNumber >12 || monthNumber<1) {
+
+
 
 if(monthNumber >12 || monthNumber<1) {
+
 			System.out.println("invalid month");
 		}
 else if(monthNumber==4||monthNumber==6||monthNumber==9||monthNumber==11) {
